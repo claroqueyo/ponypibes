@@ -65,3 +65,7 @@
 [01:47:53] [Server thread/INFO]: *************************************************************************************
 [01:47:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
 /home/codespace/.python/current/bin/python /workspaces/ponypibes/msx.py<--[HERE]
+[02:12:52] [User Authenticator #0/INFO]: UUID of player veltrop570 is f7ecab27-30f6-34e8-b1b9-8b611eddf8e6
+[02:12:55] [Server thread/INFO]: veltrop570 joined the game
+[02:12:55] [Server thread/INFO]: veltrop570[/127.178.218.240:40965] logged in with entity id 26 at ([world]-35.5, 63.0, 52.5)
+[02:16:08] [Server thread/INFO]: veltrop570 has made the advancement [Stone Age]
