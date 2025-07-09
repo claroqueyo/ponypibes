@@ -1,106 +1,71 @@
-[01:47:21] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[01:47:21] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
-[01:47:21] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:47:21] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[01:47:22] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
-[01:47:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:47:28] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[01:47:28] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[01:47:29] [ServerMain/INFO]: No existing world data, creating new world
-[01:47:30] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 8571ms.
-[01:47:31] [ServerMain/INFO]: Loaded 1370 recipes
-[01:47:31] [ServerMain/INFO]: Loaded 1481 advancements
-[01:47:31] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[01:47:31] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 308.6ms
-[01:47:31] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[01:47:31] [Server thread/INFO]: Loading properties
-[01:47:31] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[01:47:31] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:47:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:47:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:47:32] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:47:32] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[01:47:32] [Server thread/INFO]: Default game type: SURVIVAL
-[01:47:32] [Server thread/INFO]: Generating keypair
-[01:47:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:47:32] [Server thread/INFO]: Using epoll channel type
-[01:47:32] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:47:32] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[01:47:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:47:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:47:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:47:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:47:33] [Server thread/INFO]: Preparing level "world"
-[01:47:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:47:45] [Server thread/INFO]: Preparing spawn area: 2%
-[01:47:46] [Server thread/INFO]: Preparing spawn area: 2%
-[01:47:46] [Server thread/INFO]: Preparing spawn area: 2%
-[01:47:47] [Server thread/INFO]: Preparing spawn area: 4%
-[01:47:47] [Server thread/INFO]: Preparing spawn area: 18%
-[01:47:48] [Server thread/INFO]: Preparing spawn area: 18%
-[01:47:48] [Server thread/INFO]: Preparing spawn area: 18%
-[01:47:49] [Server thread/INFO]: Preparing spawn area: 44%
-[01:47:49] [Server thread/INFO]: Preparing spawn area: 51%
-[01:47:50] [Server thread/INFO]: Preparing spawn area: 59%
-[01:47:50] [Server thread/INFO]: Preparing spawn area: 65%
-[01:47:51] [Server thread/INFO]: Time elapsed: 5440 ms
-[01:47:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:47:51] [Server thread/INFO]: Preparing spawn area: 2%
-[01:47:51] [Server thread/INFO]: Preparing spawn area: 2%
-[01:47:52] [Server thread/INFO]: Preparing spawn area: 26%
-[01:47:52] [Server thread/INFO]: Preparing spawn area: 75%
-[01:47:52] [Server thread/INFO]: Time elapsed: 1623 ms
-[01:47:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:47:52] [Server thread/INFO]: Preparing spawn area: 2%
-[01:47:53] [Server thread/INFO]: Preparing spawn area: 34%
-[01:47:53] [Server thread/INFO]: Time elapsed: 663 ms
-[01:47:53] [Server thread/INFO]: [spark] Starting background profiler...
-[01:47:53] [Server thread/INFO]: Done preparing level "world" (20.964s)
-[01:47:53] [Server thread/INFO]: Running delayed init tasks
-[01:47:53] [Server thread/INFO]: Done (33.726s)! For help, type "help"
-[01:47:53] [Server thread/INFO]: *************************************************************************************
-[01:47:53] [Server thread/INFO]: This is the first time you're starting this server.
-[01:47:53] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[01:47:53] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[01:47:53] [Server thread/INFO]: *************************************************************************************
-[01:47:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/home/codespace/.python/current/bin/python /workspaces/ponypibes/msx.py<--[HERE]
-[02:12:52] [User Authenticator #0/INFO]: UUID of player veltrop570 is f7ecab27-30f6-34e8-b1b9-8b611eddf8e6
-[02:12:55] [Server thread/INFO]: veltrop570 joined the game
-[02:12:55] [Server thread/INFO]: veltrop570[/127.178.218.240:40965] logged in with entity id 26 at ([world]-35.5, 63.0, 52.5)
-[02:16:08] [Server thread/INFO]: veltrop570 has made the advancement [Stone Age]
-[02:19:06] [Server thread/INFO]: veltrop570 has made the advancement [Getting an Upgrade]
-[02:20:16] [Server thread/INFO]: veltrop570 lost connection: Disconnected
-[02:20:16] [Server thread/INFO]: veltrop570 left the game
-[02:20:16] [Server thread/INFO]: Stopping server
-[02:20:16] [Server thread/INFO]: Saving players
-[02:20:16] [Server thread/INFO]: Saving worlds
-[02:20:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:20:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[02:20:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[02:20:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[02:20:17] [Server thread/INFO]: [ChunkHolderManager] Saved 1470 block chunks, 131 entity chunks, 0 poi chunks in world 'world' in 0.84s
-[02:20:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[02:20:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[02:20:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:20:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[02:20:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[02:20:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[02:20:18] [Server thread/INFO]: [ChunkHolderManager] Saved 793 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.29s
-[02:20:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[02:20:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[02:20:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:20:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[02:20:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[02:20:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[02:20:18] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.29s
-[02:20:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[02:20:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[02:20:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:20:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:20:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:20:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:20:18] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[02:20:18] [Server thread/INFO]: All I/O tasks to complete
-[02:20:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[02:20:18] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[07:00:58] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[07:00:58] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
+[07:00:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:00:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[07:00:59] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SkinsRestorer (15.7.5)
+[07:01:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:01:08] [ServerMain/INFO]: Loaded 1370 recipes
+[07:01:08] [ServerMain/INFO]: Loaded 1481 advancements
+[07:01:08] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[07:01:08] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 193.2ms
+[07:01:08] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[07:01:08] [Server thread/INFO]: Loading properties
+[07:01:08] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[07:01:08] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:01:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:01:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:01:09] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[07:01:09] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[07:01:09] [Server thread/INFO]: Default game type: SURVIVAL
+[07:01:09] [Server thread/INFO]: Generating keypair
+[07:01:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:01:09] [Server thread/INFO]: Using epoll channel type
+[07:01:09] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:01:09] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[07:01:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.5
+[07:01:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:01:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.5
+[07:01:11] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[07:01:11] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[07:01:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:01:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:01:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:01:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:01:11] [Server thread/INFO]: Preparing level "world"
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.5
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 9bd68f3
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[07:01:12] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[07:01:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:01:12] [Server thread/INFO]: Preparing spawn area: 0%
+[07:01:13] [Server thread/INFO]: Preparing spawn area: 42%
+[07:01:13] [Server thread/INFO]: Preparing spawn area: 63%
+[07:01:13] [Server thread/INFO]: Time elapsed: 1111 ms
+[07:01:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[07:01:13] [Server thread/INFO]: Preparing spawn area: 0%
+[07:01:14] [Server thread/INFO]: Preparing spawn area: 95%
+[07:01:14] [Server thread/INFO]: Time elapsed: 563 ms
+[07:01:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[07:01:14] [Server thread/INFO]: Preparing spawn area: 0%
+[07:01:14] [Server thread/INFO]: Time elapsed: 253 ms
+[07:01:14] [Server thread/INFO]: [spark] Starting background profiler...
+[07:01:15] [Server thread/INFO]: Done preparing level "world" (3.457s)
+[07:01:15] [Server thread/INFO]: Running delayed init tasks
+[07:01:15] [Server thread/INFO]: Done (18.568s)! For help, type "help"
+[07:01:54] [User Authenticator #0/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[07:01:57] [Server thread/INFO]: Santix15 joined the game
+[07:01:57] [Server thread/INFO]: Santix15[/127.55.153.1:54899] logged in with entity id 26 at ([world]-146.9123761044441, 59.0, 825.1400516132932)
+[07:01:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: c173a5db-d692-4151-b0de-d0732ce3bb8f, mapped to Creeper['Creeper'/61, uuid='c173a5db-d692-4151-b0de-d0732ce3bb8f', l='ServerLevel[world]', x=-97.50, y=-17.00, z=832.50, cpos=[-7, 52], tl=0, v=true], can't add Creeper['Creeper'/82, uuid='c173a5db-d692-4151-b0de-d0732ce3bb8f', l='ServerLevel[world]', x=-92.55, y=-17.00, z=838.64, cpos=[-6, 52], tl=0, v=false]
+[07:01:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a8c70233-7dde-444c-a8c3-8036b9395c57, mapped to Bat['Bat'/93, uuid='a8c70233-7dde-444c-a8c3-8036b9395c57', l='ServerLevel[world]', x=-204.09, y=-19.74, z=871.31, cpos=[-13, 54], tl=0, v=true], can't add Bat['Bat'/102, uuid='a8c70233-7dde-444c-a8c3-8036b9395c57', l='ServerLevel[world]', x=-209.50, y=-19.09, z=869.40, cpos=[-14, 54], tl=0, v=false]
+[07:01:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: bf9bf7ad-ebca-48a5-9b2a-70b2a2983bc8, mapped to Sheep['Sheep'/81, uuid='bf9bf7ad-ebca-48a5-9b2a-70b2a2983bc8', l='ServerLevel[world]', x=-185.65, y=66.00, z=870.35, cpos=[-12, 54], tl=0, v=true], can't add Sheep['Sheep'/136, uuid='bf9bf7ad-ebca-48a5-9b2a-70b2a2983bc8', l='ServerLevel[world]', x=-203.21, y=67.00, z=900.20, cpos=[-13, 56], tl=0, v=false]
+[07:02:00] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 51cb6046-cb0f-4c8e-bb77-5bc60b4caabe, mapped to Skeleton['Skeleton'/192, uuid='51cb6046-cb0f-4c8e-bb77-5bc60b4caabe', l='ServerLevel[world]', x=-224.86, y=-22.83, z=926.71, cpos=[-15, 57], tl=0, v=true], can't add Skeleton['Skeleton'/194, uuid='51cb6046-cb0f-4c8e-bb77-5bc60b4caabe', l='ServerLevel[world]', x=-221.49, y=-21.00, z=929.53, cpos=[-14, 58], tl=0, v=false]
