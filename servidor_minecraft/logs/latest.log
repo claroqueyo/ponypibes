@@ -70,3 +70,7 @@
 [07:01:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: bf9bf7ad-ebca-48a5-9b2a-70b2a2983bc8, mapped to Sheep['Sheep'/81, uuid='bf9bf7ad-ebca-48a5-9b2a-70b2a2983bc8', l='ServerLevel[world]', x=-185.65, y=66.00, z=870.35, cpos=[-12, 54], tl=0, v=true], can't add Sheep['Sheep'/136, uuid='bf9bf7ad-ebca-48a5-9b2a-70b2a2983bc8', l='ServerLevel[world]', x=-203.21, y=67.00, z=900.20, cpos=[-13, 56], tl=0, v=false]
 [07:02:00] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 51cb6046-cb0f-4c8e-bb77-5bc60b4caabe, mapped to Skeleton['Skeleton'/192, uuid='51cb6046-cb0f-4c8e-bb77-5bc60b4caabe', l='ServerLevel[world]', x=-224.86, y=-22.83, z=926.71, cpos=[-15, 57], tl=0, v=true], can't add Skeleton['Skeleton'/194, uuid='51cb6046-cb0f-4c8e-bb77-5bc60b4caabe', l='ServerLevel[world]', x=-221.49, y=-21.00, z=929.53, cpos=[-14, 58], tl=0, v=false]
 [07:24:51] [Server thread/INFO]: Santix15 has made the advancement [Voluntary Exile]
+[07:46:14] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
+[07:46:14] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
+[07:50:23] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
+[07:50:23] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
